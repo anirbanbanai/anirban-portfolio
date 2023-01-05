@@ -66,6 +66,8 @@ main{
     padding:130px 150px;
 }
 .section-title{
+    font-size: 35px;
+    font-weight: 700;
     text-align: center;
     margin-bottom: 30px;
 
@@ -84,4 +86,14 @@ margin-bottom: 30px;
     font-size: 20px; 
     color: #757575;
 
+}
+.what-i-do{
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
 }
